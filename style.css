@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background-color: black ;
+}
+#list {
+    background-color: #FFBB33 ;
+    width: 50%;
+    margin: 0px 25%;
+}
+input {
+    margin: 5px 0px 5px;
+}
+#sortbtn {
+    display: none;
+    margin: 5px 0px;
+}
+#submitbtn{
+    margin: 5px 0px;
+    height: 20px;
+    padding-bottom:20px;
+    text-align: top;
+}
